@@ -1,0 +1,3 @@
+Z:/code/cplusplus/test-10-23/cmake-build-debug/CMakeFiles/main.cpp.dir
+Z:/code/cplusplus/test-10-23/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/code/cplusplus/test-10-23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+# ninja log v6
+1	391	7519858476941804	CMakeFiles/main.dir/src/main.cpp.obj	6f9913f238824606
+392	595	7519858480861288	Z:/code/Cplusplus/zlinguo_2024/test-10-30/.runtime/main.exe	1d2b4c2dbb423aba
+1	81	7520150635884127	clean	2c3ed7d8d5e18dd2
+82	1779	7520146821523710	CMakeFiles/test.dir/src/test.cpp.obj	97595260259d1132
+1	592	7520151155856889	build.ninja	c95787836db43467
+3	1518	7520137306122513	CMakeFiles/test.dir/src/stack.cpp.obj	3e33d25a941654ca
+3	1483	7520151225761203	CMakeFiles/test.dir/src/test.cpp.obj	97595260259d1132
